@@ -1,9 +1,9 @@
-# Fake-Api
+# Fake REST API
 
 Fake Online REST server.
 
-1. Create a JSON file on GitHub.
-
+1. Create a JSON file db.json
+```
 {
   "todos": [
     {
@@ -12,5 +12,6 @@ Fake Online REST server.
     }
   ]
 }
+```
 
 2. REST server cab be accsessible through https://my-json-server.typicode.com/aleksandr-novikov/Fake-Api/todos/

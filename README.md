@@ -7,8 +7,8 @@ Fake Online REST server.
 {
   "todos": [
     {
-        value: 'Add more todos',
-        status: false
+        "value": "Add more todos",
+        "status": false
     }
   ]
 }

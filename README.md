@@ -14,4 +14,4 @@ Fake Online REST server.
 }
 ```
 
-2. REST server cab be accsessible through https://my-json-server.typicode.com/aleksandr-novikov/Fake-Api/todos/
+2. Fake REST server cab be accessible through https://my-json-server.typicode.com/aleksandr-novikov/fake-api/todos/

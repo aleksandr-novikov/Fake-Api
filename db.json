@@ -1,1 +1,1 @@
-{ "todos": [ { value: 'First todo', status: false }, { value: 'Second todo', status: true} ] }
+{ "todos": [ { "value": "First todo", "status": false }, { "value": "Second todo", "status": true} ] }
